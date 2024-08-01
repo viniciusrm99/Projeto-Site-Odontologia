@@ -1,0 +1,131 @@
+:root {
+    --azulEscuro: #12045B;
+    --azulEsverdeado: #0097B2;
+    --azulEsverdeadoII: #055F70;
+}
+
+/* reutilizavel  */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: gray;
+    font-family: "Raleway", sans-serif !important;
+    font-size: 17px !important;
+}
+
+.bg-blue {
+    background-color: #0097B2 !important;
+}
+
+.bg-dark-blue {
+    background-color: #12045B !important;
+}
+
+.bg-gray {
+    background-color: #E3E3E3;
+}
+
+.border-under {
+    border-bottom: 1px solid gray;
+}
+
+.headerWrapperNavegacao {
+    color: #055F70;
+    height: 40px;
+    padding: 0 !important;
+}
+
+.hover-effect:hover {
+    background-color: #12045B;
+    color: white;
+}
+
+.carousel-wrapper {
+    position: relative;
+}
+
+.carousel-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 900px;
+    min-width: 300px;
+    text-align: center;
+    color: white;
+    z-index: 3;
+}
+
+.carousel-text h2 {
+    text-shadow: 2px 2px 2px black;
+    font-size: 40px;
+}
+
+/* login */
+.gradient-custom-2 {
+    background: linear-gradient(to right, #A6E2F6, #52B8DA, #319DC1);
+}
+
+.gradient-custom-3 {
+    background: linear-gradient(to right, #52B8DA, #319DC1);
+}
+
+
+.subtitulo {
+    font-size: 11px;
+}
+
+.card-body {
+    flex: none !important;
+    width: 60%;
+
+}
+
+.bg-gradiente {
+    position: relative;
+    overflow: hidden;
+}
+
+.bg-gradiente::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url('imgs/Pattern.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity: 0.05;
+    /* Ajuste a opacidade conforme necessário */
+    z-index: 1;
+}
+
+.bg-gradiente>* {
+    position: relative;
+    z-index: 2;
+}
+
+.hover-effect-underline:hover {
+    text-decoration: underline !important;
+    font-weight: 800 !important;
+
+}
+
+@media (min-width: 768px) {
+    .gradient-form {
+        height: 100vh !important;
+    }
+}
+
+@media (min-width: 769px) {
+    .gradient-custom-2 {
+        border-top-right-radius: .3rem;
+        border-bottom-right-radius: .3rem;
+    }
+}

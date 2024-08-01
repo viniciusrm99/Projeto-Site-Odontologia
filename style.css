@@ -44,6 +44,10 @@ body {
     color: white;
 }
 
+.button-login {
+    z-index: 5;
+}
+
 .carousel-wrapper {
     position: relative;
 }
@@ -59,6 +63,12 @@ body {
     color: white;
     z-index: 3;
 }
+
+/* .carousel-control-next,
+.carousel-control-prev-icon {
+    width: 10%;
+    height: 2000px;
+} */
 
 .carousel-text h2 {
     text-shadow: 2px 2px 2px black;

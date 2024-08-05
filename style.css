@@ -80,6 +80,14 @@ body {
     font-size: 65px !important;
 }
 
+.fs-M {
+    font-size: 55px !important;
+}
+
+.fs-P {
+    font-size: 18px !important;
+}
+
 .text-pink {
     color: #ff005c;
 }
@@ -115,6 +123,9 @@ body {
     z-index: 3;
 }
 
+.fonte-darkBlue {
+    color: #12045b !important
+}
 
 /* login */
 .gradient-custom-2 {

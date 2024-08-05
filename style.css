@@ -9,7 +9,9 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
+
 
 body {
     background-color: gray;
@@ -21,6 +23,10 @@ body {
     background-color: #0097B2 !important;
 }
 
+.bg-blue-two {
+    background-color: #52919C !important;
+}
+
 .bg-dark-blue {
     background-color: #12045B !important;
 }
@@ -29,8 +35,53 @@ body {
     background-color: #E3E3E3;
 }
 
+.bg-image {
+    background-image: url('imgs/fundo-imagem.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.btn-w-500 {
+    width: 100% !important;
+    max-width: 500px !important;
+    min-width: 100px !important;
+}
+
+.btn-light {
+    background-color: rgba(255, 255, 255, 0.5) !important;
+    border: none;
+    border-width: 0px !important;
+}
+
 .border-under {
     border-bottom: 1px solid gray;
+}
+
+.text-blueTwo {
+    color: #055f70
+}
+
+.text-shadow-default {
+    text-shadow: 2px 2px 2px black;
+}
+
+.text-shadow-two {
+    text-shadow: 1px 1px 1px black;
+    font-weight: 800;
+}
+
+.text-shadow-two {
+    text-shadow: 1px 1px 1px black;
+    font-weight: 800;
+}
+
+.fs-0 {
+    font-size: 65px !important;
+}
+
+.text-pink {
+    color: #ff005c;
 }
 
 .headerWrapperNavegacao {
@@ -64,16 +115,6 @@ body {
     z-index: 3;
 }
 
-/* .carousel-control-next,
-.carousel-control-prev-icon {
-    width: 10%;
-    height: 2000px;
-} */
-
-.carousel-text h2 {
-    text-shadow: 2px 2px 2px black;
-    font-size: 40px;
-}
 
 /* login */
 .gradient-custom-2 {
@@ -130,6 +171,12 @@ body {
 #mensagem {
     max-width: 340px;
     text-align: left;
+}
+
+#serviços .icon {
+    max-width: 90px;
+    width: 100%;
+    opacity: 40%;
 }
 
 @media (min-width: 768px) {

@@ -250,7 +250,7 @@ body {
 @media (max-width: 560px) {
 
     ul {
-        padding-left: 3px !important;
+        margin-left: 5px !important;
     }
 
     .fs-m {

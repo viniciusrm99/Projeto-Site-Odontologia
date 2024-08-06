@@ -116,7 +116,8 @@ body {
     top: 50%;
     left: 50%;
     transform: translateX(-50%);
-    width: 900px;
+    width: 100%;
+    max-width: 900px;
     min-width: 300px;
     text-align: center;
     color: white;
@@ -189,6 +190,60 @@ body {
     width: 100%;
     opacity: 40%;
 }
+
+@media (max-width: 920px) {
+    .carrosel-inicial h2 {
+        font-size: 45px !important;
+    }
+
+    .carousel-control-prev-icon,
+    .carousel-control-next-icon {
+        display: none !important;
+    }
+}
+
+@media (max-width: 713px) {
+    .carrosel-inicial h2 {
+        font-size: 45px !important;
+    }
+
+    .carousel-control-prev-icon,
+    .carousel-control-next-icon {
+        display: none !important;
+    }
+
+    ul li {
+        font-size: 70% !important;
+    }
+}
+
+@media (max-width: 560px) {
+    .menuOpcoes {
+        display: none;
+    }
+
+    .headerWrapperNavegacao {
+        justify-content: space-around;
+    }
+
+    .card-text,
+    .card-title {
+        font-size: 13px !important;
+    }
+
+    #serviços div {
+        padding: 0 !important;
+        padding-top: 2% !important;
+        margin: 0 !important;
+    }
+
+    .carousel-control-prev,
+    .carousel-control-next {
+        display: none !important;
+    }
+}
+
+
 
 @media (min-width: 768px) {
     .gradient-form {

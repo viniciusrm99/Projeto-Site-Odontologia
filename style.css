@@ -95,12 +95,26 @@ body {
     color: white;
 }
 
+.hover-effect-underline:hover {
+    text-decoration: underline !important;
+    font-weight: 800 !important;
+}
+
+.hover-effect-destacar:hover {
+    text-shadow: 2px 2px 5px rgba(66, 63, 63, 0.5);
+
+}
+
 .button-login {
     z-index: 5;
 }
 
 .carousel-wrapper {
     position: relative;
+}
+
+.cursor-pointer {
+    cursor: pointer;
 }
 
 .carousel-text {
@@ -178,7 +192,7 @@ body {
     background-image: url('imgs/Pattern-header.png');
     background-repeat: repeat;
     background-position: center;
-    background-size: 2%;
+    background-size: 1.9%;
     opacity: 0.05;
     z-index: 1;
 }
@@ -191,11 +205,6 @@ body {
 .bg-gradiente>* {
     position: relative;
     z-index: 2;
-}
-
-.hover-effect-underline:hover {
-    text-decoration: underline !important;
-    font-weight: 800 !important;
 }
 
 #mensagem {

@@ -1,14 +1,12 @@
-<h1 align="center">🦷 Projeto Sorriso Net 🦷</h1>
+<h1 align="">🦷 Projeto Sorriso Net 🦷</h1>
 
-<p align="center">
+<p align="">
   Bem-vindo ao projeto de software de odontologia! Este sistema está em desenvolvimento e tem como objetivo ajudar clínicas odontológicas a gerenciar seus pacientes, agendamentos e prontuários de forma eficiente e organizada. 
   <br><br>
   Abaixo, você pode conferir as telas criadas pelo web designer.
 </p>
 
-<h3 align="center">🖼️ Telas Criadas pelo Web Designer</h3>
-
-<p align="center">
+<p align="">
   <img src="imgs/git-telas.gif" alt="Telas Criadas pelo Web Designer">
 </p>
 

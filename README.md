@@ -1,12 +1,18 @@
-# 🦷 Projeto Sorriso Net 🦷
+<h1 align="center">🦷 Projeto Sorriso Net 🦷</h1>
 
-Bem-vindo ao projeto de software de odontologia! Este sistema foi desenvolvido para ajudar clínicas odontológicas a gerenciar seus pacientes, agendamentos e prontuários de forma eficiente e organizada.
+<p align="center">
+  Bem-vindo ao projeto de software de odontologia! Este sistema está em desenvolvimento e tem como objetivo ajudar clínicas odontológicas a gerenciar seus pacientes, agendamentos e prontuários de forma eficiente e organizada. 
+  <br><br>
+  Abaixo, você pode conferir as telas criadas pelo web designer.
+</p>
 
-### Telas Criadas pelo Web Designer
+<h3 align="center">🖼️ Telas Criadas pelo Web Designer</h3>
 
-![Telas Criadas pelo Web Designer](img/git-telas.gif)
+<p align="center">
+  <img src="imgs/git-telas.gif" alt="Telas Criadas pelo Web Designer">
+</p>
 
-## 📋 Funcionalidades
+<h2>📋 Funcionalidades</h2>
 
 ### 📅 Agendamentos
 - Criação e gerenciamento de agendamentos de consultas.

@@ -46,6 +46,5 @@
 
 - **Vinícius Miranda:** Desenvolvedor Full Stack
 - **Matheus Leite:** Desenvolvedor Backend
-- -**Gabriel Dantas:** Desenvolvedor Front-End
 - **Guilherme Dias:** Web Designer
 

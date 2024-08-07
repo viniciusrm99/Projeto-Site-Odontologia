@@ -4,7 +4,7 @@
   
   Bem-vindo ao projeto de software de odontologia! Este sistema está em desenvolvimento e tem como objetivo ajudar clínicas odontológicas a gerenciar seus pacientes, agendamentos e prontuários de forma eficiente e organizada. 
 
-  [Visualize a prévia do software aqui](https://www.youtube.com/watch?v=FNa8p_mEGuk&ab_channel=Vin%C3%ADciusReisd)
+  [Visualize a prévia do software aqui](https://viniciusrm99.github.io/Projeto-Site-Odontologia/)
 
 <h2>📋 Funcionalidades</h2>
 

@@ -40,11 +40,10 @@
 - **Vinícius Miranda:** Desenvolvedor Full Stack
 - **Matheus Leite:** Desenvolvedor Backend
 - **Guilherme Dias:** Web Designer
-
-  <br><br>
-  Abaixo, você pode conferir as telas criadas pelo web designer.
+    <br ><br>
+ <p align="center"> Abaixo, você pode conferir as telas criadas pelo web designer.
 </p>
-
+  <br ><br>
 <p align="center">
   <img src="imgs/git-telas.gif" alt="Telas Criadas pelo Web Designer">
 </p>

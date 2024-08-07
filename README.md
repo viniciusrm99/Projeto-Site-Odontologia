@@ -1,7 +1,10 @@
-<h1 align="">🦷 Projeto Sorriso Net 🦷</h1>
+<h1 align="">🦷 Projeto Sorriso Net 🦷 </h1> 
 
 <p align="">
+  
   Bem-vindo ao projeto de software de odontologia! Este sistema está em desenvolvimento e tem como objetivo ajudar clínicas odontológicas a gerenciar seus pacientes, agendamentos e prontuários de forma eficiente e organizada. 
+
+  [Visualize a prévia do software aqui](https://www.youtube.com/watch?v=FNa8p_mEGuk&ab_channel=Vin%C3%ADciusReisd)
 
 <h2>📋 Funcionalidades</h2>
 
@@ -40,7 +43,9 @@
 - **Vinícius Miranda:** Desenvolvedor Full Stack
 - **Matheus Leite:** Desenvolvedor Backend
 - **Guilherme Dias:** Web Designer
-    <br ><br>
+    <br >
+
+  <br>
  <p align="center"> Abaixo, você pode conferir as telas criadas pelo web designer.
 </p>
   <br ><br>

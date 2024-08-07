@@ -2,13 +2,6 @@
 
 <p align="">
   Bem-vindo ao projeto de software de odontologia! Este sistema está em desenvolvimento e tem como objetivo ajudar clínicas odontológicas a gerenciar seus pacientes, agendamentos e prontuários de forma eficiente e organizada. 
-  <br><br>
-  Abaixo, você pode conferir as telas criadas pelo web designer.
-</p>
-
-<p align="">
-  <img src="imgs/git-telas.gif" alt="Telas Criadas pelo Web Designer">
-</p>
 
 <h2>📋 Funcionalidades</h2>
 
@@ -48,3 +41,10 @@
 - **Matheus Leite:** Desenvolvedor Backend
 - **Guilherme Dias:** Web Designer
 
+  <br><br>
+  Abaixo, você pode conferir as telas criadas pelo web designer.
+</p>
+
+<p align="center">
+  <img src="imgs/git-telas.gif" alt="Telas Criadas pelo Web Designer">
+</p>
